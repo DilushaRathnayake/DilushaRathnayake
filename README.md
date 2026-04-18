@@ -46,13 +46,7 @@ I am a dedicated **BSc (Hons) in Information Systems** student at **Eastern Univ
 
 ---
 
-### 📊 GitHub Insights
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilushaRathnayake&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilushaRathnayake&layout=compact&langs_count=7&theme=vision-glow" />
-</div>
 
----
 
 ### 🛠️ Featured Work & Research
 * **Smart Budgeting Systems:** Developing comprehensive finance trackers with advanced UI components for expenditure analysis and debt management.
