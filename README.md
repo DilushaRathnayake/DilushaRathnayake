@@ -61,6 +61,4 @@ I am a dedicated **BSc (Hons) in Information Systems** student at **Eastern Univ
 <a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-glow" alt="Quote" />
-</div>
+
